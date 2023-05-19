@@ -1,4 +1,3 @@
-import React from 'react';
 import { useGetMessageQuery } from '../redux/apis/apiSlice'
 
 const GreetingPage = () => {
